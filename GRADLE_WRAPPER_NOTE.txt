@@ -1,0 +1,1 @@
+The source MVP did not contain a Gradle wrapper. The GitHub workflow expects ./gradlew. If the uploaded project has no wrapper, generate it once with Gradle or Android Studio, then commit gradlew and gradle/wrapper/gradle-wrapper.properties + jar.
